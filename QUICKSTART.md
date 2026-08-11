@@ -42,7 +42,7 @@ Just visit **[symphony.amni-scient.com](https://symphony.amni-scient.com)** in a
 
 ## Step 2a: Start your family (60 seconds)
 
-You're the one bringing everyone together? Here's all it takes:
+You're the one bringing everyone together? First, one honest note: **the hosted web app at symphony.amni-scient.com is invite-only** — it runs on the developer's own family server, so you can join there (with an invite) or try the demo, but new families start on **your own server**. Good news: that takes about five minutes — download **[symphony-server-win64.zip](https://github.com/Amnibro/Symphony/releases/latest/download/symphony-server-win64.zip)** and follow [SERVER.md](SERVER.md). Once it's running (or on the Android app pointed at your server):
 
 1. **Open Symphony** and type **your name**. That's the entire sign-up — no email, no phone number, no password.
 2. Tap **🏠 Start a family** (on the Android app it's **Start My Family**).
