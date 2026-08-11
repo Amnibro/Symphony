@@ -49,3 +49,5 @@ When you send a message in Symphony, it's locked into a sealed envelope **on you
 ---
 
 Made with care by **[Amni-Scient](https://amni-scient.com/symphony)** · If Symphony makes your family closer, you can [☕ support development on Ko-fi](https://ko-fi.com/amnibro)
+
+**Adults only:** Symphony is for users **18 and older**. By using the app or the hosted service you accept the [Terms of Service](TERMS.md) and [Privacy Policy](PRIVACY.md). Space admins are responsible for their own spaces; self-hosted servers are their operators's responsibility.
